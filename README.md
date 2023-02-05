@@ -86,3 +86,4 @@ The average number of doctors per 10,000 people can vary greatly depending on va
 
 From the data above, it can be seen that even though these countries have some of the top deaths caused by cardiovascular diseases, HIV/AIDS, and Malaria, they also have large number of doctors per 10,000 people. Asides Nigeria (with an average of 3-4 doctors per 10,000 people), the rest of the countries all have at least 7 medical doctors per 10,000 people. The issue therefore lies not in the availability of medical doctors, but could be the availability of wordclass medical facilities, government intervention, and the right strategies to combat these diseases.
                         
+"# Tackling-the-Health-Crises-in-Africa" 
