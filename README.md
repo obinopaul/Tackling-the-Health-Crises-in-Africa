@@ -58,7 +58,7 @@ The study also visualized the increment in the number of deaths caused by these 
 
 ## Requirements                                      
 Python 3.x                                                        
-pandas
+pandas      
 plotly                             
 numpy                                                              
 seaborn               
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 *The notebook contains detailed instructions and explanations of the code.*                             
 
 ## Data
-The data used in this project was provided by (10analytics)[https://www.10alytics.io/] for their Data Aalytics competition in December, 2022.
+The data used in this project was provided by [10analytics](https://www.10alytics.io/) for their Data Aalytics competition in December, 2022.
 
 ## Results                                                                 
 The average number of doctors per 10,000 people can vary greatly depending on various factors such as the country, region, or type of healthcare system. According to World Health Organization data from 2020, the average number of doctors per 10,000 people across the world is around 8.
