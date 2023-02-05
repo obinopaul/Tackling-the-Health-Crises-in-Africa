@@ -1,7 +1,7 @@
 # Tackling the Health Crises in Africa
 ==============================
                                                                     
-The study surveyed a dataset containing records of deaths caused by numerous diseases asound the world. The analysis which was centered on Africa showed that of all the diseases recorded, six (6) were some of the most popular causes of death in Africa. They include:
+The study surveyed a dataset containing records of deaths caused by numerous diseases asound the world. The analysis which was centered on Africa showed that of all the diseases recorded, six (6) were some of the most major causes of death in Africa. They include:
 
 1. **Cardiovascular Diseases**
 2. **HIV/AIDS**
